@@ -1,0 +1,31 @@
+{
+  "version": 3,
+  "name": "coromon.zip",
+  "items": [
+    "Coromon.sh",
+    "coromon"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Coromon",
+    "porter": [
+      "Jeod"
+    ],
+    "desc": "Coromon is a modern take on the classic monster-taming genre. Tame Coromon and explore a vast world filled with thrilling turn-based battles, brain-twisting puzzles, and a mysterious threat to the world awaiting defeat. Nobody said being a Battle Researcher was easy!",
+    "desc_md": null,
+    "inst": "Buy the game and copy all the data to `coromon/data`.",
+    "inst_md": null,
+    "genres": [
+      "adventure",
+	  "rpg"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gamelist>
+	<game>
+		<path>./Coromon.sh</path>
+		<name>Coromon</name>
+		<desc>Coromon is a modern take on the classic monster-taming genre. Tame Coromon and explore a vast world filled with thrilling turn-based battles, brain-twisting puzzles, and a mysterious threat to the world awaiting defeat. Nobody said being a Battle Researcher was easy!</desc>
+		<image>./coromon/cover.png</image>
+		<releasedate>20220331</releasedate>
+		<developer>TRAGsoft</developer>
+		<genre>Adventure, Indie, RPG, Strategy</genre>
+	</game>
+</gamelist>
