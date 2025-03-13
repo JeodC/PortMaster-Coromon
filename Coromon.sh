@@ -13,7 +13,7 @@ source $controlfolder/control.txt
 get_controls
 
 # Variables
-GAMEDIR=/$directory/ports/coromon
+GAMEDIR="/$directory/windows/coromon"
 
 # CD and set permissions
 cd $GAMEDIR
